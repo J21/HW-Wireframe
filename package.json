@@ -1,0 +1,19 @@
+{
+  "name": "hw-wireframe",
+  "version": "1.0.0",
+  "description": "Homework 1 -easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J21/HW-Wireframe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J21/HW-Wireframe/issues"
+  },
+  "homepage": "https://github.com/J21/HW-Wireframe#readme"
+}
