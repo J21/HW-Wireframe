@@ -36,6 +36,9 @@ aside {
   overflow: hidden;
 }
 
+audio{
+  visibility: hidden;
+}
 article {
   padding: 10px;
   color: #ebebeb;
